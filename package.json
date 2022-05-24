@@ -1,0 +1,22 @@
+{
+  "name": "inbox_updated",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhinav-Alexander/inbox_updated.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhinav-Alexander/inbox_updated/issues"
+  },
+  "homepage": "https://github.com/Abhinav-Alexander/inbox_updated#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.8"
+  }
+}
